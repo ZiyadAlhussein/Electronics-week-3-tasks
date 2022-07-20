@@ -15,11 +15,17 @@
 
   1) Click on create new Circuit.
   2) From the search tool, get:
+  
     i. Breadboard (small)
+    
     ii. Arduino uno r3
+    
     iii. DC Motor
+    
     iv. npn transistor
-    v. 2 resistors
+    
+    v. two resistors
+    
     vi. push button
   
   3) Connect a wire from the GND (ground) of the arduino to the negative sign column in the breadboard, Connect the ground from the servo moter to the negative sign column in the breadboard.
