@@ -27,9 +27,6 @@
   5) Connect a wire to the signal from the servo motor to pin 9 in the arduino.
   6) You can either use the following code or a block diagram to run the simulation.
   
-  ![image](https://user-images.githubusercontent.com/108147030/179870748-6e96544a-ab81-48e7-b874-f8d47a334a84.png)
-
-
 ```ruby
 int preState = 0;
 int ledState = 0;
