@@ -68,4 +68,4 @@ void loop()
 }  
   ```
   
-7) Click on start Simulation if you click on the push button the motor will start working and if you click on the push button again the motor will stop working.
+5) Click on start Simulation if you click on the push button the motor will start working and if you click on the push button again the motor will stop working.
