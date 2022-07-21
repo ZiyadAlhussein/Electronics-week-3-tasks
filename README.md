@@ -28,11 +28,12 @@
     
     vi. push button
   
-  3) Connect a wire from the GND (ground) of the arduino to the negative sign column in the breadboard, Connect the ground from the servo moter to the negative sign column in the breadboard.
-  4) Connect a wire to the power from the servo motor to 5V in the arduino.
-  5) Connect a wire to the signal from the servo motor to pin 9 in the arduino.
-  6) You can either use the following code or a block diagram to run the simulation.
+  3) Connect the circuit as shown below:
   
+  ![image](https://user-images.githubusercontent.com/108147030/180041768-2116069e-2918-461d-822f-ad7c5efea9c5.png)
+  
+  4) use the following code to simulate the ON/OFF button circuit:
+ 
 ```ruby
 int preState = 0;
 int ledState = 0;
@@ -66,6 +67,5 @@ void loop()
       
 }  
   ```
-![image](https://user-images.githubusercontent.com/108147030/180041768-2116069e-2918-461d-822f-ad7c5efea9c5.png)
   
-7) Click on start Simulation.
+7) Click on start Simulation if you click on the push button the motor will start working and if you click on the push button again the motor will stop working.
